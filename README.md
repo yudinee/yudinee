@@ -1,6 +1,6 @@
 <!--header-->
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Dalm's+Github!👋&fontSize=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Yujin's+Github!👋&fontSize=40&animation=twinkling"/>
 </div>
 
 <h2 align=center>Profile</h2>
