@@ -25,7 +25,9 @@
   <br>
     
   <div align="center">
-    <a href="https://www.notion.so/233b2f5c490d80bb8301e8e50b9eb81b?source=copy_link"/></a>
+     <a href="https://www.notion.so/233b2f5c490d80bb8301e8e50b9eb81b?source=copy_link">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </a> 
     <a href="mailto:apdkfldbwls@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
 
