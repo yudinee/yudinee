@@ -6,7 +6,7 @@
 <h2 align=center>Profile</h2>
 <br>
 <h4 align=center>📞 **Email** |apdkfldbwls@gmail.com <br /></h4>
-<h4 align=center>✉ **Phone** | 010-</h4>
+<h4 align=center>✉ **Phone** | 010-2182-0457</h4>
 
 <br/><br />
 
