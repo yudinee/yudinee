@@ -33,30 +33,17 @@
 
   <br>
 
-  <h2 align=center>💡 Algorithm 💡</h2>
-
-  <div align=center>
-    <a href="https://solved.ac/pjs0703/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs0703"/>
-    </a>
-    <br>
-    <img src="http://mazandi.herokuapp.com/api?handle=pjs0703&theme=dark"/>
-  </div>
-  
-  <br>
-
   <h2 align=center>📚 Tech Stack 📚</h2>
   <br>
   <h3 align=center>🪄 Languages 🪄</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp
   </div>
   <div align=center>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
   <div align=center>
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </div>
   
   <br>
