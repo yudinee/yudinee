@@ -25,9 +25,8 @@
   <br>
     
   <div align="center">
-    <a href="https://www.notion.so/19807776a51b80ca8c4cdd5c791a85b2?source=copy_link"><img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat-square&logo=Notion&logoColor=black"/></a>
-    <a href="mailto:pjs990703@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:jongseo0703@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+    <a href="[https://www.notion.so/19807776a51b80ca8c4cdd5c791a85b2?source=copy_link"><img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat-square&logo=Notion&logoColor=black](https://kind-brow-d56.notion.site/233b2f5c490d80bb8301e8e50b9eb81b?source=copy_link)"/></a>
+    <a href="mailto:apdkfldbwls@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
 
   <br>
